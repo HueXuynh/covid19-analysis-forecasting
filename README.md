@@ -1,4 +1,4 @@
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/d11048ca-897e-4f06-96af-3c72baf8076d" /># covid19-analysis-forecasting
+
 Phân tích và dự báo xu hướng dịch COVID-19 bằng Python và Machine Learning
 # Phân tích và dự báo xu hướng dịch COVID-19
 
